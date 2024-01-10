@@ -9,7 +9,7 @@
   "integration_type": "device",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/pdw-mb/tsmart_ha/issues",
-  "requirements": ["tsmart"],
+  "requirements": ["git+https://github.com/hoggyhoggy/tsmart"],
   "ssdp": [],
   "version": "0.2.0",
   "zeroconf": []
